@@ -19,11 +19,11 @@ Problems:
 
 6. modify “mycal” so you can set variables from the return result by using the format “x result”. For example if you type:
 add 6 10
-# prints: 16
+#### prints: 16
 assign x result
-# now x is equal to 16
+#### now x is equal to 16
 add x + 10
-# prints: 26
+#### prints: 26
 
 if it’s not clear the “# prints: blah” statements are what “mycal” will print to the screen. no the user input.
 
@@ -33,14 +33,14 @@ assign x 6
 assign y 10
 loop
 mul x y
-# prints: 60
+#### prints: 60
 assign z result
 sub z y
-# prints: 50
+#### prints: 50
 x 10
 repeat
-# prints: mul x y
-# prints: 100
-# prints: assign z result
-# prints: sub z y
-# prints: 90
+#### prints: mul x y
+#### prints: 100
+#### prints: assign z result
+#### prints: sub z y
+#### prints: 90
