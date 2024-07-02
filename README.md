@@ -13,7 +13,7 @@ Problems:
 
 4. modify “mycal” so it can also do the operators “and”, “or” and “xor”. for example “and 6 10” will do a bitwise “and” and print out the result 2. “or 6 10” will do a bitwise “or” and print out 14. “xor 6 10” will do a bitwise “exclusive or” and print out 12.
 
-# stop here and I will review the code before continuing.
+### stop here and I will review the code before continuing.
 
 5. modify “mycal” so it can store numbers. If you type “assign x 6” it will store 5 into “x”. then if you type something like “add x 10” it will print out 16. Only needs to support single letter variable names for now. So if you then type “assign abC 10” you could then run “add x abC” afterwards and it will print out 16.
 
